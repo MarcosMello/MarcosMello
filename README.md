@@ -2,7 +2,7 @@
 
 ### I'm, currently, a Computer Science student at Federal University of Espírito Santo (UFES).
 
-I’m interested in learning more about development in general, but in my spare time, other than learning about competitive programming, I’m focusing on learning game development.
+I’m interested in learning more about development in general, but in my spare time, other than learning about competitive programming, I’m focused on learning game development.
 
 Besides programming stuff, I’m interested in streaming - gaming, technology or focusing sessions (sprints) -,  music and games - mainly multiplayer ones.
 
