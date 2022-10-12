@@ -18,7 +18,7 @@ Besides programming stuff, I’m interested in streaming - gaming, technology or
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)]
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 ## My Socials:
 <a href="https://twitter.com/haletos" target="_blank">![Twitter](https://img.shields.io/badge/Haletos-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
