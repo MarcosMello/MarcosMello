@@ -4,7 +4,7 @@
 
 I’m interested in learning more about development in general, but in my spare time, other than learning about competitive programming, I’m focused on learning game development.
 
-Besides programming stuff, I’m interested in streaming - gaming, technology or focusing sessions (sprints) -,  music and games - mainly multiplayer ones.
+Besides programming stuff, I’m interested in streaming - gaming, technology or focusing sessions (sprints) -, reading, music and games - mainly multiplayer ones.
 
 ## What I use:
 
