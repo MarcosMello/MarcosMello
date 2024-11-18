@@ -20,7 +20,5 @@ Besides programming stuff, I’m interested in streaming - gaming, technology or
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 ## My Socials:
-<a href="https://twitter.com/haletos" target="_blank">![Twitter](https://img.shields.io/badge/Haletos-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-<a href="https://www.twitch.tv/haletos" target="_blank">![Twitch](https://img.shields.io/badge/haletos-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)</a>
 <a href="https://open.spotify.com/user/6lhtgzdk20x7jux5gtgishghh" target="_blank">![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)</a>
 <a href="https://www.goodreads.com/marcosmello" target="_blank">![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)</a>
